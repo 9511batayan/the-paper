@@ -1,2 +1,3 @@
-# The-paper
+# the-paper
 修士の間で学会に提出してきた論文です。
+RobomechとSIが基本的に投稿してきた学会講演会です。
